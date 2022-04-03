@@ -1,6 +1,6 @@
 """
 calculs des heures suplementaires au-delà de 40h, 
-les heures supp sont payes en doubles du taux, 50%
+les heures supp sont payes en double du taux, 50%
 """
 
 def calcul_paie(heures, taux):
